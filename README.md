@@ -1,13 +1,13 @@
 # MusicCube promos
 
 Pictures in this repo show up inside the MusicCube app. No app update needed.
-**A picture is ON while its file is here. Delete it to switch that spot OFF.**
+**A spot is ON while its picture is here. Delete the picture to switch that spot OFF.**
 
 | File name | Where it shows | Picture shape |
 |---|---|---|
-| `home-banner.jpg` | Slim banner at the very top of Home | wide, 3:1 (e.g. 1200×400) |
-| `home-card-1.jpg` | Card right under "For you" on Home | 16:9 (e.g. 1280×720) |
-| `home-card-2.jpg` | Card in the middle of Home | 16:9 (e.g. 1280×720) |
+| `home-banner.jpg` | Slim banner on Home, right under "For you" | wide, 3:1 (e.g. 1200×400) |
+| `home-middle.jpg` | Card in the middle of Home | 16:9 (e.g. 1280×720) |
+| `home-bottom.jpg` | Card at the very end of Home | 16:9 (e.g. 1280×720) |
 | `now-playing.jpg` | A slide in the Now Playing slideshow | square (e.g. 1080×1080) |
 | `link.txt` | Optional. One web address; tapping any promo opens it | — |
 
